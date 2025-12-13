@@ -1,0 +1,39 @@
+{
+  "spec": "openplayt-bootstrap-1.0",
+
+  "cartridge": {
+    "id": "bessie-smith-giants-of-jazz-disc-1",
+    "type": "album-disc",
+    "disc": 1,
+    "total_discs": 1
+  },
+
+  "release": {
+    "artist": "Bessie Smith",
+    "title": "Giants of Jazz – Disc 1",
+    "year": "1926–1928",
+    "public_domain": true,
+    "notes": "Historic recordings by Bessie Smith. Public-domain material compiled as a Playt cartridge for archival playback."
+  },
+
+  "content": {
+    "format": "playt",
+    "source": {
+      "type": "arweave",
+      "txid": "8uAbEYyQZUeuKn8iFqCqEUafwTb0YOelAUGB9vZYOT8",
+      "url": "https://arweave.net/8uAbEYyQZUeuKn8iFqCqEUafwTb0YOelAUGB9vZYOT8",
+      "filename": "smith-bessie-1926-28-giants-of-jazz-disc-1.playt"
+    }
+  },
+
+  "player": {
+    "autoload": true,
+    "suggested_action": "download-and-play"
+  },
+
+  "provenance": {
+    "storage": "ArDrive / Arweave",
+    "curated_by": "OpenPlayt",
+    "license": "Public Domain"
+  }
+}
