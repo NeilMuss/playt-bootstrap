@@ -33,8 +33,86 @@
     "tracks": [
       {
         "track": 1,
-        "title": "Gin House Blues",
+        "title": "Dipper Mouth Blues",
         "url": "https://arweave.net/K6WDat6tTvW1IkUlwfRpAJeq4OTpdHzz3HgJfUfKDks",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 2,
+        "title": "Copenhagen",
+        "url": "https://arweave.net/K6WDat6tTvW1IkUlwfRpAJeq4OTpdHzz3HgJfUfKDks",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 3,
+        "title": "Cake Walking Babies From Home",
+        "url": "https://arweave.net/6gePn-Uif0eKI3FD8jYEm-eJNgGOJ4wvH-UDmKUvTxY",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 4,
+        "title": "Cold In Hand Blues",
+        "url": "https://arweave.net/x7Ynw0v8DYpD3zx4O3MVktL_snkwrq3JPQ1GTQqQmzE",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 5,
+        "title": "My Heart",
+        "url": "https://arweave.net/K6WDat6tTvW1IkUlwfRpAJeq4OTpdHzz3HgJfUfKDks",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 6,
+        "title": "Gut Bucket Blues",
+        "url": "https://arweave.net/K6WDat6tTvW1IkUlwfRpAJeq4OTpdHzz3HgJfUfKDks",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 7,
+        "title": "Heebie Jeebies",
+        "url": "https://arweave.net/KbRM3trwParktYwOp9Xrn7DY4OIDjA-Dl12qx-XA1e4",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 8,
+        "title": "Cornet Chop Suey",
+        "url": "https://arweave.net/K6WDat6tTvW1IkUlwfRpAJeq4OTpdHzz3HgJfUfKDks",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 9,
+        "title": "Static Strut",
+        "url": "https://arweave.net/K6WDat6tTvW1IkUlwfRpAJeq4OTpdHzz3HgJfUfKDks",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 10,
+        "title": "Georgia Bo Bo",
+        "url": "https://arweave.net/K6WDat6tTvW1IkUlwfRpAJeq4OTpdHzz3HgJfUfKDks",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 11,
+        "title": "Willie The Weeper",
+        "url": "https://arweave.net/K6WDat6tTvW1IkUlwfRpAJeq4OTpdHzz3HgJfUfKDks",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 12,
+        "title": "Wild Man Blues",
+        "url": "https://arweave.net/K6WDat6tTvW1IkUlwfRpAJeq4OTpdHzz3HgJfUfKDks",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 13,
+        "title": "Potato Head Blues",
+        "url": "https://arweave.net/Yk6Dy3TJd0zNElrYfoDD79iMJnrroEn1CrbBFR9FCNQ",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 14,
+        "title": "Ory's Creole Trombone",
+        "url": "https://arweave.net/wNRE4FQYvvd14B_kOmgpbpDtyo-HhkGNB0ZCwMHvtHs",
         "mime": "audio/mpeg"
       }
     ]
