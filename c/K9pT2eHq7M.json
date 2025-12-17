@@ -12,28 +12,31 @@
     "artist": "Bessie Smith",
     "title": "Giants of Jazz – Disc 1",
     "year": "1926–1928",
-    "public_domain": true,
-    "notes": "Historic recordings by Bessie Smith. Public-domain material compiled as a Playt cartridge for archival playback."
+    "public_domain": true
+  },
+
+  "artwork": {
+    "type": "image",
+    "url": "https://arweave.net/SuUoBvOPlPsa6vLGhRXRVc5e7N1SOji66SmMYiHZmZQ"
   },
 
   "content": {
-    "format": "playt",
-    "source": {
-      "type": "arweave",
-      "txid": "8uAbEYyQZUeuKn8iFqCqEUafwTb0YOelAUGB9vZYOT8",
+    "playt": {
+      "format": "playt",
       "url": "https://arweave.net/8uAbEYyQZUeuKn8iFqCqEUafwTb0YOelAUGB9vZYOT8",
       "filename": "smith-bessie-1926-28-giants-of-jazz-disc-1.playt"
     }
   },
 
-  "player": {
-    "autoload": true,
-    "suggested_action": "download-and-play"
-  },
-
-  "provenance": {
-    "storage": "ArDrive / Arweave",
-    "curated_by": "OpenPlayt",
-    "license": "Public Domain"
+  "streaming": {
+    "format": "mp3",
+    "tracks": [
+      {
+        "track": 1,
+        "title": "Gin House Blues",
+        "url": "https://arweave.net/K6WDat6tTvW1IkUlwfRpAJeq4OTpdHzz3HgJfUfKDks",
+        "mime": "audio/mpeg"
+      }
+    ]
   }
 }
