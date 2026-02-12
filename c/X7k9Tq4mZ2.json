@@ -1,0 +1,85 @@
+{
+  "spec": "openplayt-bootstrap-1.0",
+
+  "cartridge": {
+    "id": "the-spells-the-night-has-eyes",
+    "type": "album-disc",
+    "disc": 1,
+    "total_discs": 1
+  },
+
+  "release": {
+    "artist": "The Spells",
+    "title": "The Night Has Eyes",
+    "year": "1997",
+    "public_domain": false
+  },
+
+  "artwork": {
+    "type": "image",
+    "url": "https://arweave.net/8s4NY2pCCnKJ8t70iyGNqPQGgC_tsIAXob9b_1v4xhw"
+  },
+
+  "content": {
+    "playt": {
+      "format": "playt",
+      "url": "https://arweave.net/WK1IKdryFd5EBSyvnVfkIW_byiADPblrN6ytvW8G3og",
+      "filename": "TheSpells-TheNightHasEyes.playt"
+    }
+  },
+
+  "streaming": {
+    "format": "mp3",
+    "tracks": [
+      {
+        "track": 1,
+        "title": "Lilith",
+        "url": "https://arweave.net/Ghg7_GRvFqvUWfDO-QBZTLihsnQEwkeID9OovEZSuVU",
+        "mime": "audio/mpeg"
+      },
+      {
+        "track": 2,
+        "title": "Vanishing Act",
+        "url": "https://arweave.net/TM9jEL0Kckuq3svvcRnqTvDuCKK7N9zh7bxYOp2U6hs",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 3,
+        "title": "Strange",
+        "url": "https://arweave.net/QV-aP3DCWEq0UyJirBTHcvQVZm-Dd5b7Jh4i-Pklkgs",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 4,
+        "title": "Snow White's Coffin",
+        "url": "https://arweave.net/W9fN6ESm8hztva7KzllnQOqe5JOzTiuwH6JnwuyvfiM",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 5,
+        "title": "The Night Has Eyes",
+        "url": "https://arweave.net/6AD94GQYvfcDpwuuYHcKUW7CkyPonQ2NmJGG4ighdQg",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 6,
+        "title": "If The World Should End Tonight",
+        "url": "https://arweave.net/Pex33hNT4_GWn3n3QLS8oOlRbubLZLg1yUGKtp9dSsc",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 7,
+        "title": "Isadora",
+        "url": "https://arweave.net/RjEHJ_mpzbUCyUO2nR9CATYhmIyYJ05vqRvQcN4bacs",
+        "mime": "audio/mpeg"
+      },
+            {
+        "track": 8,
+        "title": "Yumiko",
+        "url": "https://arweave.net/8uVEiQ8-WtbCZlU7MwB9cZ7eT8tzb-MWyIhLK8TVCVk",
+        "mime": "audio/mpeg"
+      },
+
+    ]
+  }
+}
