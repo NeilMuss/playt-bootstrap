@@ -20,13 +20,15 @@
     "url": "https://arweave.net/8s4NY2pCCnKJ8t70iyGNqPQGgC_tsIAXob9b_1v4xhw"
   },
 
-  "content": {
-    "playt": {
-      "format": "playt",
-      "url": "https://arweave.net/WK1IKdryFd5EBSyvnVfkIW_byiADPblrN6ytvW8G3og",
-      "filename": "TheSpells-TheNightHasEyes.playt"
-    }
-  },
+"content": {
+  "playt_zip": "https://arweave.net/WK1IKdryFd5EBSyvnVfkIW_byiADPblrN6ytvW8G3og",
+  "playt": {
+    "format": "playt",
+    "url": "https://arweave.net/WK1IKdryFd5EBSyvnVfkIW_byiADPblrN6ytvW8G3og",
+    "filename": "TheSpells-TheNightHasEyes.playt"
+  }
+}
+  ,
 
   "streaming": {
     "format": "mp3",
