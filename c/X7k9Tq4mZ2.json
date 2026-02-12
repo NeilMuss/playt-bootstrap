@@ -21,8 +21,7 @@
   },
 
 "content": {
-  "playt_zip": "https://arweave.net/WK1IKdryFd5EBSyvnVfkIW_byiADPblrN6ytvW8G3og",
-  "playt": {
+  "source": {
     "format": "playt",
     "url": "https://arweave.net/WK1IKdryFd5EBSyvnVfkIW_byiADPblrN6ytvW8G3og",
     "filename": "TheSpells-TheNightHasEyes.playt"
